@@ -70,6 +70,27 @@
 </details>
 
 <details>
+ <summary> gravy </summary>
+
+ https://damndelicious.net/2018/11/14/how-to-make-the-best-turkey-gravy/
+ 
+INGREDIENTS
+- Pan drippings from turkey
+- 1/4 cup unsalted butter
+- 1/4 cup all-purpose flour
+- 2 teaspoons chopped fresh thyme
+- 1 tablespoon chopped fresh parsley leaves
+- Kosher salt and freshly ground black pepper, to taste
+ 
+DIRECTIONS
+- Strain pan drippings through a fine-mesh sieve; discard solids and reserve 2 1/2 cups pan drippings; set aside.
+- Melt butter in a medium saucepan over medium heat. Whisk in flour and thyme until lightly browned, about 1 minute.
+- Gradually whisk in reserved pan drippings. Bring to a boil; reduce heat and simmer, whisking constantly, until thickened, about 5-10 minutes. Stir in parsley; season with salt and pepper, to taste.
+- Serve warm.
+ 
+ </details>
+ 
+<details>
  <summary> cheesy potatoes </summary>
 
 https://thedashleyskitchen.com/funeral-potato-recipe-with-real-potatoes/
@@ -325,19 +346,17 @@ VARIATION: coarsely chopped walnuts may be substituted for pecans to make a waln
  
  Directions
  
-Step 1
-Preheat oven to 400 degrees F (200 degrees C).
-
-Step 2
-Stir together crushed pretzels, melted butter and 3 tablespoons sugar; mix well and press mixture into the bottom of a 9x13 inch baking dish.
-
-Step 3
-Bake 8 to 10 minutes, until set. Set aside to cool.
-
-Step 4
-In a large mixing bowl cream together cream cheese and 1 cup sugar. Fold in whipped topping. Spread mixture onto cooled crust.
-
-Step 5
-Dissolve gelatin in boiling water. Stir in still frozen strawberries and allow to set briefly. When mixture is about the consistency of egg whites, pour and spread over cream cheese layer. Refrigerate until set.
+1. Preheat oven to 400 degrees F (200 degrees C).
+2. Stir together crushed pretzels, melted butter and 3 tablespoons sugar; mix well and press mixture into the bottom of a 9x13 inch baking dish.
+3. Bake 8 to 10 minutes, until set. Set aside to cool.
+4.In a large mixing bowl cream together cream cheese and 1 cup sugar. Fold in whipped topping. Spread mixture onto cooled crust.
+5. Dissolve gelatin in boiling water. Stir in still frozen strawberries and allow to set briefly. When mixture is about the consistency of egg whites, pour and spread over cream cheese layer. Refrigerate until set.
  
  </details>
+
+<details>
+ <summary> template </summary>
+
+ recipe goes here
+
+</details>
