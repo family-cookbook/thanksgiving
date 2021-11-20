@@ -224,6 +224,56 @@ Dissolve gelatin in boiling water. Stir in still frozen strawberries and allow t
  </details>
 
 <details>
+ <summary> stuffing </summary>
+ 
+ https://www.onceuponachef.com/recipes/sausage-herb-stuffing.html
+ 
+ 
+ INGREDIENTS
+
+
+8 cups (400g) store-bought unseasoned stuffing cubes
+
+ 1 stick (1/2 cup) unsalted butter
+
+ 1-1/2 cups diced yellow onion (from 1 large or 2 small onions)
+
+ 1 cup diced celery (from 3 large celery stalks)
+
+ 4 garlic cloves, finely chopped
+
+ 1 pound bulk sweet Italian sausage (i.e., sausage with the casings removed) -- see note below
+
+ 2-3/4 cups low sodium chicken broth
+
+ 1 large egg, beaten
+
+ 1 tablespoon fresh chopped rosemary
+
+ 1 tablespoon fresh chopped sage
+
+ 1/4 cup fresh chopped parsley
+
+ 1/2 teaspoon salt
+
+ 1/2 teaspoon freshly ground black pepper
+
+ INSTRUCTIONS
+
+Preheat the oven to 350°F. Grease a 9 x 13-inch baking dish with butter.
+
+ Place the stuffing cubes in a large mixing bowl.
+
+In a large sauté pan, melt the butter. Add the onions and celery and cook over medium heat, stirring occasionally, for about 8 minutes, or until the vegetables are soft. Add the garlic and cook 2 minutes more. Add the vegetables to the stuffing cubes. (Don't wash the pan but scrape out every last bit of vegetables, otherwise they will burn in the next step.)
+
+ In the same pan, cook the sausage over medium heat for 8-10 minutes, until browned and cooked through, breaking up the sausage with a metal spatula while cooking (the largest pieces should be no greater than 1/4-inch). Add the browned sausage and fat to the bread cubes and vegetables.
+
+ Add the chicken broth, egg, rosemary, sage, parsley, salt and pepper to the bread cube mixture and mix until the bread is soft and moistened. Transfer the stuffing to the prepared baking dish and bake for 65-75 minutes, uncovered, until deeply golden and crisp on top.
+ 
+ </details>
+
+
+<details>
  
  <summary> biscuits </summary>
  
