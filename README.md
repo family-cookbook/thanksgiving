@@ -181,47 +181,6 @@ MAKE AHEAD TIPS:
 </details>
 
 
-<details>
- <summary> pretzel jello salad </summary>
-
- https://www.allrecipes.com/recipe/20338/strawberry-pretzel-salad/
- 
-2 cups crushed pretzels
- 
- ¾ cup butter, melted
-
- 3 tablespoons white sugar
-
- 1 (8 ounce) package cream cheese, softened
-
- 1 cup white sugar
-
- 1 (8 ounce) container frozen whipped topping, thawed
-
- 2 (3 ounce) packages strawberry flavored Jell-O®
-
- 2 cups boiling water
-
- 2 (10 ounce) packages frozen strawberries
- 
- Directions
- 
-Step 1
-Preheat oven to 400 degrees F (200 degrees C).
-
-Step 2
-Stir together crushed pretzels, melted butter and 3 tablespoons sugar; mix well and press mixture into the bottom of a 9x13 inch baking dish.
-
-Step 3
-Bake 8 to 10 minutes, until set. Set aside to cool.
-
-Step 4
-In a large mixing bowl cream together cream cheese and 1 cup sugar. Fold in whipped topping. Spread mixture onto cooled crust.
-
-Step 5
-Dissolve gelatin in boiling water. Stir in still frozen strawberries and allow to set briefly. When mixture is about the consistency of egg whites, pour and spread over cream cheese layer. Refrigerate until set.
- 
- </details>
 
 <details>
  <summary> stuffing </summary>
@@ -339,3 +298,46 @@ VARIATION: coarsely chopped walnuts may be substituted for pecans to make a waln
  <summary> pumpkin pie </summary>
  Just following the recipe on Libby's "Easy Pumpkin Pie Mix" can.
 </details>
+
+
+<details>
+ <summary> pretzel jello salad </summary>
+
+ https://www.allrecipes.com/recipe/20338/strawberry-pretzel-salad/
+ 
+2 cups crushed pretzels
+ 
+ ¾ cup butter, melted
+
+ 3 tablespoons white sugar
+
+ 1 (8 ounce) package cream cheese, softened
+
+ 1 cup white sugar
+
+ 1 (8 ounce) container frozen whipped topping, thawed
+
+ 2 (3 ounce) packages strawberry flavored Jell-O®
+
+ 2 cups boiling water
+
+ 2 (10 ounce) packages frozen strawberries
+ 
+ Directions
+ 
+Step 1
+Preheat oven to 400 degrees F (200 degrees C).
+
+Step 2
+Stir together crushed pretzels, melted butter and 3 tablespoons sugar; mix well and press mixture into the bottom of a 9x13 inch baking dish.
+
+Step 3
+Bake 8 to 10 minutes, until set. Set aside to cool.
+
+Step 4
+In a large mixing bowl cream together cream cheese and 1 cup sugar. Fold in whipped topping. Spread mixture onto cooled crust.
+
+Step 5
+Dissolve gelatin in boiling water. Stir in still frozen strawberries and allow to set briefly. When mixture is about the consistency of egg whites, pour and spread over cream cheese layer. Refrigerate until set.
+ 
+ </details>
