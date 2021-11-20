@@ -68,3 +68,37 @@ INGREDIENTS
 - orange wedges, lady apples or kumquats, for serving
 
 ## cheesy potatoes
+
+https://thedashleyskitchen.com/funeral-potato-recipe-with-real-potatoes/
+
+### INGREDIENTS
+
+POTATO MIXTURE
+- 6-7 medium potatoes (30-35 ounces)
+- ¼ cup butter
+- 1 can cream of chicken soup
+- 2 cups sour cream (1 pint)
+- ½ cup chopped green onions
+- 1 teaspoon salt
+- 1½ cups shredded cheddar cheese
+
+TOPPING
+- ¼ cup melted butter
+- 2 cups crushed cornflakes
+
+### INSTRUCTIONS
+- Preheat oven to 400° F.
+- Cube and boil potatoes until just soft enough to eat, but still firm when bitten into. (al dente) Drain off the water and set aside to cool a little.
+- On stovetop melt your butter. Once melted stir in can of cream of chicken soup.
+- In seperate bowl mix sour cream, chopped green onions, salt, and shredded cheddar cheese. Add the butter and soup mixture. Mix well and set aside.
+- Fold in potatoes to the combined sauce mixture till they are worked in and all potatoes are coated.
+- Spoon mixture into a greased 9x13 baking dish.
+- To prepare the topping melt butter and mix with crushed Kellogg's Corn Flakes.
+- Spread cereal topping over the mixture in the pan.
+- Bake in oven at 400° F for approximately 35 to 45 minutes or until bubbly and corn flakes appear golden and crispy.
+
+NOTES
+- When boiling potatoes add one teaspoon salt to the water for more flavorful potatoes.
+- Boil the potatoes until they are just soft enough to bite through. You want your potatoes to be al dente. They will cook more in the oven.
+
+
