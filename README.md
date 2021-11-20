@@ -177,3 +177,46 @@ MAKE AHEAD TIPS:
 - Next add the mushroom/bacon mixture along with the salt and pepper. Let the sauce simmer for a couple of minutes, then add the green beans. Stir to combine.
 - Pour the bean mixture into a 9x13 casserole dish and sprinkle the French fried onions all over the top. Bake uncovered for 30 minutes until bubbling and the onions are golden and crispy. Let sit for 5 minutes before serving.
 </details>
+
+
+<details>
+ <summary> pretzel jello salad </summary>
+
+ https://www.allrecipes.com/recipe/20338/strawberry-pretzel-salad/
+ 
+2 cups crushed pretzels
+ 
+ ¾ cup butter, melted
+
+ 3 tablespoons white sugar
+
+ 1 (8 ounce) package cream cheese, softened
+
+ 1 cup white sugar
+
+ 1 (8 ounce) container frozen whipped topping, thawed
+
+ 2 (3 ounce) packages strawberry flavored Jell-O®
+
+ 2 cups boiling water
+
+ 2 (10 ounce) packages frozen strawberries
+ 
+ Directions
+ 
+Step 1
+Preheat oven to 400 degrees F (200 degrees C).
+
+Step 2
+Stir together crushed pretzels, melted butter and 3 tablespoons sugar; mix well and press mixture into the bottom of a 9x13 inch baking dish.
+
+Step 3
+Bake 8 to 10 minutes, until set. Set aside to cool.
+
+Step 4
+In a large mixing bowl cream together cream cheese and 1 cup sugar. Fold in whipped topping. Spread mixture onto cooled crust.
+
+Step 5
+Dissolve gelatin in boiling water. Stir in still frozen strawberries and allow to set briefly. When mixture is about the consistency of egg whites, pour and spread over cream cheese layer. Refrigerate until set.
+ 
+ </details>
