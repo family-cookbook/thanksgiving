@@ -112,21 +112,21 @@ https://celebratingsweets.com/sweet-potato-casserole-with-marshmallow-pecan-stre
 ### Ingredients
 
 Main
-▢ 3 to 3- ¼ pounds sweet potatoes*, peeled and chopped into large chunks, see note
-▢ 2 tablespoons unsalted butter
-▢ ¼ cup milk or half and half
-▢ ½ teaspoon ground cinnamon or pumpkin pie spice
-▢ 2 tablespoons brown sugar
-▢ salt, to taste
+- 3 to 3- ¼ pounds sweet potatoes*, peeled and chopped into large chunks, see note
+- 2 tablespoons unsalted butter
+- ¼ cup milk or half and half
+- ½ teaspoon ground cinnamon or pumpkin pie spice
+- 2 tablespoons brown sugar
+- salt, to taste
 
 Topping
-▢ 4 tablespoons unsalted butter, softened
-▢ ¼ cup brown sugar
-▢ ¼ cup all purpose flour, for a sturdier streusel add and additional heaping tablespoon of flour
-▢ ½ teaspoon ground cinnamon
-▢ ⅛ teaspoon salt
-▢ ½ cup chopped pecans
-▢ 2 -3 cups mini marshmallows, or more, if you’d like
+- 4 tablespoons unsalted butter, softened
+- ¼ cup brown sugar
+- ¼ cup all purpose flour, for a sturdier streusel add and additional heaping tablespoon of flour
+- ½ teaspoon ground cinnamon
+- ⅛ teaspoon salt
+- ½ cup chopped pecans
+- 2 -3 cups mini marshmallows, or more, if you’d like
 
 ### Instructions
 Main
