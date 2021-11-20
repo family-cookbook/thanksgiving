@@ -249,3 +249,38 @@ cutter. Do not twist cutter when cutting; this crimps the edges of the biscuit a
  Place biscuits on a cookie sheet and bake until golden brown, approximately 10 to 15 minutes.
  
  </details>
+
+
+<details>
+ <summary> pecan pie </summary>
+
+Ingredients
+
+ 1 cup Karo® Light OR Dark Corn Syrup
+
+ 3 eggs
+
+ 1 cup sugar
+
+ 2 tablespoons butter melted
+
+ 1 teaspoon pure vanilla extract
+
+ 1-1/2 cups (6 ounces) pecans
+
+ 1 (9-inch) unbaked OR frozen deep-dish pie crust
+ 
+ Directions
+ 
+- Preheat oven to 350°F.
+- Mix corn syrup, eggs, sugar, butter and vanilla using a spoon. Stir in pecans. Pour filling into pie crust.
+- Bake on center rack of oven for 60 to 70 minutes (see tips for doneness, below). Cool for 2 hours on wire rack before serving.
+- Place cookie sheet in oven and preheat oven as directed. Pour filling into frozen crust and bake on preheated cookie sheet. 
+
+RECIPE TIPS: Pie is done when center reaches 200°F. Tap center surface of pie lightly - it should spring back when done. For easy clean up, spray pie pan with cooking spray before placing pie crust in pan. If pie crust is overbrowning, cover edges with foil. 
+
+HIGH ALTITUDE ADJUSTMENTS: Reduce sugar to 2/3 cup and increase butter to 3 tablespoons. Reduce oven temperature to 325°F. 
+
+VARIATION: coarsely chopped walnuts may be substituted for pecans to make a walnut pie.
+ 
+ </details>
