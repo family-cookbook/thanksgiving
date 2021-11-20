@@ -284,3 +284,8 @@ HIGH ALTITUDE ADJUSTMENTS: Reduce sugar to 2/3 cup and increase butter to 3 tabl
 VARIATION: coarsely chopped walnuts may be substituted for pecans to make a walnut pie.
  
  </details>
+
+<details>
+ <summary> pumpkin pie </summary>
+ Just following the recipe on Libby's "Easy Pumpkin Pie Mix" can.
+</details>
