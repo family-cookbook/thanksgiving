@@ -69,7 +69,8 @@
  - orange wedges, lady apples or kumquats, for serving
 </details>
 
-## cheesy potatoes
+<details>
+ <summary> cheesy potatoes </summary>
 
 https://thedashleyskitchen.com/funeral-potato-recipe-with-real-potatoes/
 
@@ -102,10 +103,13 @@ TOPPING
 NOTES
 - When boiling potatoes add one teaspoon salt to the water for more flavorful potatoes.
 - Boil the potatoes until they are just soft enough to bite through. You want your potatoes to be al dente. They will cook more in the oven.
+</details>
 
-## creamed corn
+<details>
+ <summary> creamed corn </summary>
 
-https://www.allrecipes.com/recipe/53304/cream-corn-like-no-other/
+ https://www.allrecipes.com/recipe/53304/cream-corn-like-no-other/
+</details>
 
 ## sweet potato casserole
 
