@@ -111,7 +111,8 @@ NOTES
  https://www.allrecipes.com/recipe/53304/cream-corn-like-no-other/
 </details>
 
-## sweet potato casserole
+<details>
+ <summary> sweet potato casserole </summary>
 
 https://celebratingsweets.com/sweet-potato-casserole-with-marshmallow-pecan-streusel/
 
@@ -149,6 +150,7 @@ MAKE AHEAD TIPS:
  You can also prepare the streusel topping (without the marshmallows) and refrigerate that separately.
 - Before serving, bring the streusel topping to room temperature. Heat the potatoes (without any topping) in the oven at 375°F until heated all the way through (30-ish minutes depending on the size of your casserole dish). Or speed it along by microwaving. Once the potatoes are warmed through, sprinkle on the marshmallows and streusel and return to the oven for 8-15 minutes, until the marshmallows are lightly toasted (broil briefly for a darker color).
 
+</details>
 
 <details>
  <summary> green bean casserole </summary>
@@ -218,5 +220,32 @@ In a large mixing bowl cream together cream cheese and 1 cup sugar. Fold in whip
 
 Step 5
 Dissolve gelatin in boiling water. Stir in still frozen strawberries and allow to set briefly. When mixture is about the consistency of egg whites, pour and spread over cream cheese layer. Refrigerate until set.
+ 
+ </details>
+
+<details>
+ 
+ <summary> biscuits </summary>
+ 
+- 2 cups all-purpose flour, plus more for dusting 2 tablespoons baking powder
+- 1 scant tablespoon sugar
+- 1 teaspoon salt
+- 5 tablespoons cold, unsalted butter, preferably European style
+- 1 cup whole milk
+
+ Step 1
+Preheat oven to 425. Sift flour, baking powder, sugar and salt into a large mixing bowl. Transfer to a food processor. Cut butter into pats and add to flour, then pulse 5 or 6 times until the mixture resembles rough crumbs. (Alternatively, cut butter into flour in the mixing bowl using a fork or a pastry cutter.) Return dough to bowl, add milk and stir with a fork until it forms a rough ball.
+ 
+Step 2
+Turn the dough out onto a well-floured surface and pat it down into a rough rectangle, about an inch thick. Fold it over and gently pat it down again. Repeat. Cover the dough loosely with a kitchen towel and allow it to rest for 30 minutes.
+ 
+Step 3
+Gently pat out the dough some more, so that the
+rectangle is roughly 10 inches by 6 inches. Cut
+dough into biscuits using a floured glass
+cutter. Do not twist cutter when cutting; this crimps the edges of the biscuit and impedes its rise.
+ 
+ Step 4
+ Place biscuits on a cookie sheet and bake until golden brown, approximately 10 to 15 minutes.
  
  </details>
