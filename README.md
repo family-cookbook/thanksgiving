@@ -130,6 +130,25 @@ NOTES
  <summary> creamed corn </summary>
 
  https://www.allrecipes.com/recipe/53304/cream-corn-like-no-other/
+ 
+Ingredients
+- 2 (10 ounce) packages frozen corn kernels, thawed
+- 1 cup heavy cream
+- 1 teaspoon salt
+- 2 tablespoons granulated sugar
+- ¼ teaspoon freshly ground black pepper
+- 2 tablespoons butter
+- 1 cup whole milk
+- 2 tablespoons all-purpose flour
+- ¼ cup freshly grated Parmesan cheese
+ 
+Directions
+1. In a skillet over medium heat, combine the corn, cream, salt, sugar, pepper and butter. 
+2. Whisk together the milk and flour, and stir into the corn mixture. 
+3. Cook, stirring over medium heat until the mixture is thickened, and corn is cooked through. 4. Remove from heat, and stir in the Parmesan cheese until melted. 
+5. Serve hot.
+ 
+ 
 </details>
 
 <details>
