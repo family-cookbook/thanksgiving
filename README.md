@@ -376,6 +376,8 @@ VARIATION: coarsely chopped walnuts may be substituted for pecans to make a waln
 <details>
  <summary> raspberry fluff </summary>
 
+ <br>
+ 
 - 1 box (5.1 oz) instant vanilla pudding
 - 32 oz container vanilla yogurt
 - 8 oz container Cool Whip (expertly thawed by the patriarch of the family)
