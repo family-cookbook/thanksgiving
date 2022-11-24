@@ -376,19 +376,18 @@ VARIATION: coarsely chopped walnuts may be substituted for pecans to make a waln
 <details>
  <summary> raspberry fluff </summary>
 
- 1 box (5.1 oz) instant vanilla pudding
+- 1 box (5.1 oz) instant vanilla pudding
+- 32 oz container vanilla yogurt
+- 8 oz container Cool Whip (expertly thawed by the patriarch of the family)
+- 1 pkg frozen raspberries
  
- 32 oz container vanilla yogurt
+Directions:
  
- 8 oz container Cool Whip (expertly thawed by the patriarch of the family)
- 
- 1 pkg frozen raspberries
- 
-  Firstly, in a large bowl, combine the pudding mix and vanilla yogurt, 
+1. Firstly, in a large bowl, combine the pudding mix and vanilla yogurt, 
     stirring until well mixed.
-  Nextly, fold Cool Whip into the mixture 
+1. Nextly, fold Cool Whip into the mixture 
     (you can use a spatula or a whisk). 
-  Lastly, fold in the raspberries.
+1. Lastly, fold in the raspberries.
 
 </details>
 
