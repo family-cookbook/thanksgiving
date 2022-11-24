@@ -337,6 +337,9 @@ VARIATION: coarsely chopped walnuts may be substituted for pecans to make a waln
 <details>
  <summary> pumpkin pie </summary>
  Just following the recipe on Libby's "Easy Pumpkin Pie Mix" can.
+
+E.g. https://www.allrecipes.com/recipe/22755/libbys-famous-pumpkin-pie/
+
 </details>
 
 
