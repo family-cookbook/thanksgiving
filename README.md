@@ -87,6 +87,22 @@ DIRECTIONS
 - Melt butter in a medium saucepan over medium heat. Whisk in flour and thyme until lightly browned, about 1 minute.
 - Gradually whisk in reserved pan drippings. Bring to a boil; reduce heat and simmer, whisking constantly, until thickened, about 5-10 minutes. Stir in parsley; season with salt and pepper, to taste.
 - Serve warm.
+
+INGREDIENTS FOR RUB
+
+Ingredients
+1 tablespoon coarse Kosher salt
+1 tablespoon chili powder
+1 tablespoon paprika
+1/2 tablespoon ground black pepper
+1/2 tablespoon onion powder
+1/2 tablespoon garlic powder
+Dash of cayenne
+
+The recipe below says not to use brown sugar, but we did anyway, and it was great.
+
+https://www.savoryexperiments.com/homemade-turkey-rub-recipe/#wprm-recipe-container-18580
+
  
  </details>
  
