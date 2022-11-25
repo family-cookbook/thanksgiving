@@ -89,15 +89,14 @@ DIRECTIONS
 - Serve warm.
 
 INGREDIENTS FOR RUB
-
-Ingredients
-1 tablespoon coarse Kosher salt
-1 tablespoon chili powder
-1 tablespoon paprika
-1/2 tablespoon ground black pepper
-1/2 tablespoon onion powder
-1/2 tablespoon garlic powder
-Dash of cayenne
+- 1 tablespoon coarse Kosher salt
+- 1 tablespoon chili powder
+- 1 tablespoon paprika
+- 1/2 tablespoon ground black pepper
+- 1/2 tablespoon onion powder
+- 1/2 tablespoon garlic powder
+- Dash of cayenne
+- brown sugar to taste
 
 The recipe below says not to use brown sugar, but we did anyway, and it was great.
 
